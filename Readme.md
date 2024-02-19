@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/4AOKjzb.jpeg)
+![MasterHead](https://i.imgur.com/4AOKjzb.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sukrit Das</h1>
 <h3 align="center">Machine Designing & AIML Enthusiast from India</h3>
@@ -24,7 +24,7 @@
 <a href="https://fb.com/https://www.facebook.com/sukrit.das.501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sukrit.das.501" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iamsukritdas09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamsukritdas09/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/sukrit_09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sukrit_09" height="30" width="40" /></a>
-<a href="https://discord.gg/sukrit_09#8014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sukrit_09#8014" height="30" width="40" /></a>
+<a href="https://discord.gg/edith69_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edith69_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
