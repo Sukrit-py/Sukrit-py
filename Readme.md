@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/4AOKjzb.jpeg)
+![MasterHead](https://i.imgur.com/xpzBErJ.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sukrit Das</h1>
 <h3 align="center">Machine Designing & AIML Enthusiast from India</h3>
